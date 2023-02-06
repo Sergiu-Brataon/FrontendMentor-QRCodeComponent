@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+## This is my attempt at the frontend mentor QR code component challenge
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
